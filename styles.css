@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: lemonchiffon;
+    font-family: Impact, 'Times New Roman', serif;
+    font-size: 1.3rem;
+
+}
+
+a {
+    color:aliceblue;
+    font-family: system-ui, Arial, serif;
+   
+}
+
+a:hover, a:visited:hover {
+    color:darkorange;    
+}
+
+a:visited {
+    color:lawngreen;
+}
+
+
