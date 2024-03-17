@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: lemonchiffon;
+    font-family: system-ui, 'Courier New', monospace;
+    font-size: 1.3rem;
+
+}
+a {
+    color:aliceblue;
+    font-family: system-ui, 'Courier New', monospace;
+       
+}
+
+a:hover, a:visited:hover {
+    color:darkorange;    
+}
+
+a:visited {
+    color:lawngreen;
+}
+
+
