@@ -1,15 +1,14 @@
 body {
     background-color: black;
     color: lemonchiffon;
-    font-family: Impact, 'Times New Roman', serif;
+    font-family: system-ui, 'Courier New', monospace;
     font-size: 1.3rem;
 
 }
-
 a {
     color:aliceblue;
-    font-family: system-ui, Arial, serif;
-   
+    font-family: system-ui, 'Courier New', monospace;
+       
 }
 
 a:hover, a:visited:hover {
