@@ -3,6 +3,10 @@ body {
     color: lemonchiffon;
     font-family: system-ui, 'Courier New', monospace;
     font-size: 1.3rem;
+    border: 2px solid lightblue;
+    height: 500px;
+    width: auto;
+    
 
 }
 a {
@@ -19,4 +23,20 @@ a:visited {
     color:lawngreen;
 }
 
+a:active, a:visited:active {
+    color: blueviolet;
+}
 
+h1 {
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+ul {    
+    width: fit-content;
+    margin: 5px auto;
+}
